@@ -12,6 +12,7 @@ namespace ConsoleApp6
 
             Console.WriteLine("Vjezba1!");
             Console.WriteLine("Vjezba122!");
+           Console.WriteLine("Novo auau ");
         }
     }
 }
